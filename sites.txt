@@ -1,4 +1,4 @@
-sratch.mit.edu
+scratch.mit.edu
 code.org/learn
 learntomod.com
 
